@@ -32,7 +32,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habit é um app para ajudar a rastrear os Hábitos.
+O Habits é um app para ajudar a rastrear os Hábitos.
+
+- [Visite o projeto online] (https://Brenobn.github.io/nlw-setup)
 
 ## 🔖 Layout
 
